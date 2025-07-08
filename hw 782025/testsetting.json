@@ -1,0 +1,15 @@
+{
+"base_url":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+"credentials": {
+    "username":"Admin",
+    "password":"admin123",
+    "invalid_username": "WrongAdmin",
+    "invalid_password": "WrongAdmin123",
+    "blank_username": "",
+    "blank_password": ""
+},
+"timeout": {
+    "implicit": 10,
+    "page_load": 10
+}
+}
