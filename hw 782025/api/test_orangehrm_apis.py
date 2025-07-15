@@ -185,7 +185,7 @@ def run_all_tests():
     driver = None
     try:
         driver = init_driver()
-        session, csrf_token = get_selenium_session(driver)
+        session = get_selenium_session(driver)
 
         if not session:
             print("Không thể khởi tạo session. Dừng kiểm thử API.")
