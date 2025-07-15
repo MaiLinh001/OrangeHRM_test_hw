@@ -1,5 +1,5 @@
 {
-"base_url":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+"base_url":"https://opensource-demo.orangehrmlive.com/web/index.php",
 "credentials": {
     "username":"Admin",
     "password":"admin123",
